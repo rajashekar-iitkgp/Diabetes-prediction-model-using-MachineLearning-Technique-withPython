@@ -8,7 +8,7 @@ Prediction of Diabetes based on Diagnostic measures
 - Diabetes_Prediction_ML.ipynb
     - This is the main file which contains the code for the project.
 - README.md
-    - This file contains the description of the project and the team members.
+    - This file contains the description of the project.
 - diabetes.csv
     - This file contains the dataset used for the project.
 - Final_Report.docx/pdf
