@@ -1,10 +1,8 @@
 # Project Description
 Prediction of Diabetes based on Diagnostic measures
 
-## Team Members
 - Banoth Rajshekhar (19BT30008)
-- Nishant Gahlaut (19BT30015)
-- Venkata Tharun Raj (19BT30033)
+
 
 ## Folder Structure
 - Diabetes_Prediction_ML.ipynb
